@@ -5,4 +5,4 @@ Milestones achieved in this project:
 the fundamentals of HTML.
 // I will commit to regularly creating git adds and commits.
 // I will have applied my knowledge of HTML, covering everything 
-from elements to self closing tags. 
+from elements to adding images. 
