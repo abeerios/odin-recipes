@@ -8,8 +8,20 @@ h1, h3, h4 {
     color: rgb(72, 72, 72);
 }
 
-li {
+.recipe {
     list-style-type: none;
+}
+
+.list {
+    list-style-position: inside;
+}
+
+.items {
+    list-style-type: circle;
+}
+
+.steps {
+    list-style-type: decimal;
 }
 
 a:link {
@@ -17,14 +29,17 @@ a:link {
     text-decoration: none;
 }
 
+img {
+    border: 2px solid rgba(74, 74, 96, 0.468);
+}
+
 /* Layout */
 
 * {
-    /* border: 1px solid red; */
     box-sizing: border-box;
 }
 
-.page {
+.wrapper {
     width: 600px;
     text-align: center;
     margin: 100px auto;
