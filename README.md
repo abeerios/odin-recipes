@@ -1,3 +1,3 @@
-This is a basic website that displays some recipes.
+This website displays three beverage recipes. 
 
-It is meant as practice for my HTML and CSS skills.
+This summer is the summer that you quench your thirst.
